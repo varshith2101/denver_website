@@ -10,6 +10,7 @@ export const Component = () => {
                 <header className="relative w-full bg-white py-4 shadow-md">
                     <div className="flex items-center justify-between px-6">
                         <div className="flex items-center space-x-2">
+                            
                             <svg
                                 className="w-10 h-10 text-green-600"
                                 viewBox="0 0 24 24"
