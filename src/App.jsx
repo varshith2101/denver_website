@@ -1,11 +1,11 @@
 import './App.css'
+import Elements from './components/Elements.jsx'
 
 function App() {
 
   return (
     <>
-      <h1>Welcome to the React App</h1>
-      <p>This is a simple React application.</p>
+      <Elements />
     </>
   )
 }
