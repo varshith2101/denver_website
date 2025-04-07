@@ -1,11 +1,11 @@
 import './App.css'
-import { Component } from './components/component'
 
 function App() {
 
   return (
     <>
-      <Component />
+      <h1>Welcome to the React App</h1>
+      <p>This is a simple React application.</p>
     </>
   )
 }
